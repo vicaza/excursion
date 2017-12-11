@@ -10,7 +10,21 @@ h1 {
   text-align: center;
 }
 
-p {
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+
+p,
+a {
   text-align: center;
   color: aquamarine;
   text-size: 16px;
